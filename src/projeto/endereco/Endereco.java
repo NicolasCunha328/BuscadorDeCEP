@@ -1,4 +1,4 @@
-package projeto;
+package projeto.endereco;
 
 public record Endereco(String cep,
                        String logradouro,
